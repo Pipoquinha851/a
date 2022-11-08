@@ -1,0 +1,11 @@
+{
+    "name": "Unity.Collections.Editor",
+    "references": [
+        "Unity.Collections"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
