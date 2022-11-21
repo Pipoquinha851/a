@@ -1,0 +1,23 @@
+{
+  "name": "com.unity.sysroot",
+  "displayName": "Sysroot Base",
+  "version": "1.1.0",
+  "unity": "2019.4",
+  "keywords": [
+    "unity",
+    "linux",
+    "sysroot"
+  ],
+  "description": "This is the base sysroot package required by all sysroot and toolchain packages",
+  "upm": {
+    "changelog": "Fix 1336012 - Build from windows fails if username contains space"
+  },
+  "upmCi": {
+    "footprint": "823b58878f3f2dc5c637cc4efe37bf6c3b03cd41"
+  },
+  "repository": {
+    "url": "https://github.com/Unity-Technologies/com.unity.sysroot.git",
+    "type": "git",
+    "revision": "06452e5b4fa764e23268c150fb98ce3bb978ff7a"
+  }
+}

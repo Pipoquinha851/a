@@ -9,7 +9,7 @@ namespace Unity.Multiplayer.Samples.BossRoom
 {
     public static class UnityRelayUtilities
     {
-        const string k_KDtlsConnType = "dtls";
+        const string k_KDtlsConnType = "ws";
 
         /// <summary>
         /// Deprecated, please see updated ConnectionManager sample code for an example on how to connect to Relay
