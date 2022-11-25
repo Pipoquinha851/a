@@ -147,7 +147,7 @@
         "com.unity.nuget.mono-cecil": "1.10.1",
         "com.unity.transport": "1.3.0"
       },
-      "hash": "367ab64b92a10bba632beba77dc8401d217bfe36"
+      "hash": "d9ab3a7ffb9ec1f5e3b08004decc0ecccef233b9"
     },
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.4",
@@ -358,14 +358,15 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.transport": {
-      "version": "file:C:/repos/com.unity.transport/com.unity.transport",
+      "version": "https://github.cds.internal.unity3d.com/unity/com.unity.transport.git?path=/com.unity.transport#master",
       "depth": 0,
-      "source": "local",
+      "source": "git",
       "dependencies": {
         "com.unity.collections": "2.1.0-pre.2",
         "com.unity.burst": "1.7.3",
         "com.unity.mathematics": "1.2.6"
-      }
+      },
+      "hash": "6ee1ac031448f12bc76af35f1eb860ab11f100c7"
     },
     "com.unity.ugui": {
       "version": "1.0.0",
